@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "hamburguesa",
+    "precio": 300,
+    "thumbnail": "url",
+    "id": 1
+  },
+  {
+    "nombre": "pizza",
+    "precio": 1000,
+    "thumbnail": "url",
+    "id": 2
+  },
+  {
+    "nombre": "napolitana",
+    "precio": 1200,
+    "thumbnail": "url",
+    "id": 3
+  },
+  {
+    "nombre": "gaseosa",
+    "precio": 500,
+    "thumbnail": "url",
+    "id": 4
+  }
+]
